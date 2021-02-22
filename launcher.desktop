@@ -1,0 +1,6 @@
+[Desktop Entry]
+Version= 1.0.0
+Name = Chess Game
+Exec = /home/usr/Schreibtisch/Chess/main.py
+Icon = /home/usr/Schreibtisch/Chess/resources-images/bK.png
+Type = Application
